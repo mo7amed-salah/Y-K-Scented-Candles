@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: "Georgia", serif;
+  background-color: #00382f;
+  color: #d9c19b;
+}
+
+.container {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.logo-box img {
+  width: 500px;
+  margin-bottom: 15px;
+  border-radius: 40px;
+}
+
+.logo-box h1 {
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+.btn {
+  display: block;
+  width: 260px;
+  margin: 20px auto;
+  padding: 15px 0;
+  border-radius: 40px;
+  background-color: #c7a46b;
+  color: #00382f;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #e8cfa5;
+}
